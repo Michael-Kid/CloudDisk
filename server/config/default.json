@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://mikeydevelop:MCoDL9cKv5MtgfAO@cloud.gauxt1m.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "cloud-secket-key",
+  "filePath": "C:\\Users\\я\\Desktop\\new cloud\\server\\files",
+  "staticPath": "C:\\Users\\я\\Desktop\\new cloud\\server\\static"
+}
